@@ -1,4 +1,4 @@
-# MCCS Docker Image
+# MCCS-PPI
 
 ![build workflow](https://github.com/stcmz/mccs-docker/actions/workflows/build.yml/badge.svg)
 ![release workflow](https://github.com/stcmz/mccs-docker/actions/workflows/release.yml/badge.svg)
