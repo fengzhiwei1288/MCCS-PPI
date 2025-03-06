@@ -18,7 +18,7 @@ To use scripts in this repository to install and configure the included third-pa
 
 ## What's Included
 
-* [MCCS toolchain](https://github.com/stcmz/mccs-toolchain)
+* [MCCS toolchain](https://github.com/fengzhiwei1288/MCCS)
   * [pdbget](https://github.com/fengzhiwei1288/pdbget)
   * [jdock](https://github.com/fengzhiwei1288/jdock)
 * [PROPKA](https://github.com/jensengroup/propka)
