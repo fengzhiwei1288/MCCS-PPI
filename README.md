@@ -32,7 +32,7 @@ To use scripts in this repository to install and configure the included third-pa
 
 |Folder|Root Image|OS|
 |-|-|-|
-|[slim](https://github.com/stcmz/mccs-docker/tree/main/slim)|[debian:buster-slim](https://hub.docker.com/_/debian)| Debian GNU/Linux 10, code name Buster|
+|[slim](https://github.com/fengzhiwei1288/mccs-docker/tree/main/slim)|[debian:buster-slim](https://hub.docker.com/_/debian)| Debian GNU/Linux 10, code name Buster|
 
 
 ## How to Build
