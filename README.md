@@ -3,7 +3,7 @@
 ![build workflow](https://github.com/stcmz/mccs-docker/actions/workflows/build.yml/badge.svg)
 ![release workflow](https://github.com/stcmz/mccs-docker/actions/workflows/release.yml/badge.svg)
 
-This repository contains the scripts to create Docker images with the MCCS toolchain and all third-party software used in the MCCS protocol installed and configured.
+This repository contains the scripts to create Docker images with the MCCS-PPI and all third-party software used in the MCCS-PPI installed and configured.
 
 
 ## Disclaimer
